@@ -1,0 +1,2 @@
+# Virtual-Assembler
+A simple assembler written in Java ; the purpose of the program is to read a source file with Assembly Language instructions (Custom Language) and parse the code to generate an Object file . The object file can later be handled by a linker to generate a executable file in the end. The Linker is unavailable as at present. This was a Software Engineering project during my studies; I felt i could share this with everyone who can get a few ideas for concrete assemblers in Future.   
