@@ -1,0 +1,11 @@
+        START
+        LOAD A
+ETIQ    SUB B
+        STORE   C
+        LOAD    C
+        BRPOS   ETIQ
+        STOP
+A       CONST   5
+B       CONST   2
+C       SPACE   
+        END

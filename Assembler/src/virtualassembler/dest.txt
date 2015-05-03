@@ -1,0 +1,21 @@
+0r	13a	33r	35r
+3r	13a	34r	36r
+6r	12a	38r	
+8r	8a	36r	
+10r	3a	35r	
+12r	2a	36r	
+14r	7a	37r	
+16r	6a	38r	
+18r	1a	30r	
+20r	8a	37r	
+22r	13a	36r	35r
+25r	13a	37r	36r
+28r	0a	10r	
+30r	8a	38r	
+32r	11a		
+33r	0a		
+34r	1a		
+35r	XXa		
+36r	XXa		
+37r	XXa		
+38r	XXa		
